@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldVS2008", "HelloWorldVS2008.csproj", "{8431893D-408D-4827-8EE6-A814256B5597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartInspectPostSharpVS2008", "..\..\source\SmartInspectPostSharpVS2008.csproj", "{5E399DAE-E55A-4AE2-85F7-A7393F32BEE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8431893D-408D-4827-8EE6-A814256B5597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8431893D-408D-4827-8EE6-A814256B5597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8431893D-408D-4827-8EE6-A814256B5597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8431893D-408D-4827-8EE6-A814256B5597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E399DAE-E55A-4AE2-85F7-A7393F32BEE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E399DAE-E55A-4AE2-85F7-A7393F32BEE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E399DAE-E55A-4AE2-85F7-A7393F32BEE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E399DAE-E55A-4AE2-85F7-A7393F32BEE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
